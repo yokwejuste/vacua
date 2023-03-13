@@ -1,0 +1,9 @@
+[submodule "Vacua-backend"]
+	path = Vacua-backend
+	url = git@github.com:yokwejuste/Vacua-backend.git
+[submodule "VacuaBackend"]
+	path = VacuaBackend
+	url = git@github.com:yokwejuste/Vacua-backend.git
+[submodule "VacuaApp"]
+	path = VacuaApp
+	url = git@github.com:yokwejuste/Vacua-app.git
