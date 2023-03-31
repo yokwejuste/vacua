@@ -19,9 +19,13 @@ development and more.
 - [Postgres](https://www.postgresql.org/)
 - [Swagger](https://swagger.io/)
 
+### Machine Learning
+
+- [OpenCV](https://opencv.org/)
+
 ## Installation
 
-To run th project get to the [Mobile Apo Repo](https://github.com/yokwejuste/Vacua-App/) and
-the [Vacua Backend](https://github.com/yokwejuste/Vacua-backend) then follow the instructions in each repositories.
+To run this project, get to the [Mobile App Repo](https://github.com/yokwejuste/Vacua-App/) and
+the [Vacua Backend Repository](https://github.com/yokwejuste/Vacua-backend) then follow the instructions in each repository.
 
-Have fun in code!!!
+Have fun building!!!
